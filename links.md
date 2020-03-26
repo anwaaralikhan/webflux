@@ -4,3 +4,5 @@ https://github.com/tidehyun/spring-boot2.0-webflux-sample/blob/master/src/main/j
 
 
 https://www.gitmemory.com/issue/springdoc/springdoc-openapi/75/527786640
+
+https://medium.com/david-vassallos-blog-posts/reactive-spring-webflux-multipart-file-upload-476d413209d2
